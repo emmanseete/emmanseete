@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @emmanseete
-- 👀 I’m interested in React, Next.js, Expo
-- 🌱 I’m currently learning Javascript, React, Next.Js, Expo
-- 💞️ I’m looking to collaborate on open projects
-- 😄 Pronouns: he/him
+- 👋 hi, it's emman here
+- 👀 i’m interested in rust, javascript
+- 🌱 i’m currently learning rust
+- 💞️ i’m looking to collaborate on open projects
+- 😄 pronouns: he/him/his
 <!--- 📫 How to reach me ...-->
 <!--- ⚡ Fun fact: ...-->
 
